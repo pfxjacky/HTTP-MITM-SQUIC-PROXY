@@ -3,7 +3,7 @@
 一键安装部署脚本 
 ```
 bash
-wget https://raw.githubusercontent.com/pfxjacky/HTTP-MITM-SQUIC-PROXY/refs/heads/main/dingliu_squid_script.sh && chmod +x dingliu_squid_script.sh && ./dingliu_squid_script.sh
+wget https://raw.githubusercontent.com/pfxjacky/HTTP-MITM-SQUIC-PROXY/refs/heads/main/https-zth.sh && chmod +x https-zth.sh && ./https-zth.sh
 ```
 
 1、拷贝脚本和服务端到VPS上，执行脚本安装。
