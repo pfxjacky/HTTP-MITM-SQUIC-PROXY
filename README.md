@@ -1,6 +1,14 @@
 
 
 一键安装部署脚本 
+
+```
+bash
+wget https://raw.githubusercontent.com/pfxjacky/HTTP-MITM-SQUIC-PROXY/refs/heads/main/dingliu_multios_script.sh && chmod +x dingliu_multios_script.sh && ./dingliu_multios_script.sh
+
+```
+
+
 ```
 bash
 wget https://raw.githubusercontent.com/pfxjacky/HTTP-MITM-SQUIC-PROXY/refs/heads/main/https-zth.sh && chmod +x https-zth.sh && ./https-zth.sh
